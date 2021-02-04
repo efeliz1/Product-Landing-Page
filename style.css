@@ -13,10 +13,20 @@ body{
 	font-family: 'Raleway', sans-serif;
 }
 
-
-
 #header{
-	/*background-color: black;*/
+	/*position: fixed;*/
+}
+
+#nav-image{
+	background-image: url(https://i.ytimg.com/vi/cTAQbE-8c6g/maxresdefault.jpg);
+	min-height: 810px;
+
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	position: relative;
+
 	
 }
 
@@ -51,6 +61,7 @@ nav{
 	padding: 10px 15px;
     text-decoration: none;
     color: black;
+    font-size: 17px;
 }
 
 .nav-item:hover{
