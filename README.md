@@ -1,6 +1,6 @@
 # Product - Landing Page
 
-Build with HTML, CSS, JavaScript
+Build with HTML, CSS
 
 - Landing page of a martial art clothing product
 
